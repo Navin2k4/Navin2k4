@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Navin2k4&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Navin2k4&theme=dark&hide_border=true)<br/>
@@ -19,7 +19,7 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Navin2k4&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-</div>
+
 
 ###
 
