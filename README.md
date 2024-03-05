@@ -36,19 +36,20 @@
 </div>
 
 
-### Stats
+## STATS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Navin2k4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin2k4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Navin2k4&theme=dark&hide_border=true)<br/>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Navin2k4&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ### Top Contributed Repo
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Navin2k4&theme=dark&hide_border=true)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Navin2k4&limit=3&theme=dark&combine_all_yearly_contributions=true)
 
 ###
