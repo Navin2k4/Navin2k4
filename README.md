@@ -83,4 +83,4 @@
 ### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![](https://visitcount.itsvg.in/api?id=Navin2k4&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=navinkumaran2004&label=Views%20&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
