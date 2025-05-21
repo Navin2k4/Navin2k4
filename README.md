@@ -2,11 +2,7 @@
 
 ###
 
-<h2 align="left">Turning CAFFINE into CODE untill it's solved.</h2>
-
-###
-
-<h3 align="left">Web Developer  |  2nd  |  CSE  |  VCET</h3>
+<h3 align="left">Web Developer | Coder |  3rd Year  |  Computer Science  |  VCET</h3>
 
 
 ###
