@@ -56,7 +56,7 @@
 </p>
 
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/project.png"/> Signature Projects
+##  📌 Signature Projects
 
 ### Skip The Doctor - Virtual Healthcare Platform
 
@@ -91,7 +91,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/combo-chart--v1.png"/> Performance Metrics
+##  📌 Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Navin2k4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" height="170"/>
@@ -133,7 +133,7 @@ Built HIPAA-compliant healthcare applications, integrated advanced scheduling sy
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/communication.png"/> Contact & Collaboration
+##  📌 Contact & Collaboration
 
 <div align="center">
   <a href="https://www.linkedin.com/in/navin2004/" target="_blank">
