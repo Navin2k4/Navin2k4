@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there It's . . . 
+# Hi there ! It's . . . 
 
 🔗 [navinkumaran.xyz](https://navinkumaran.xyz)
 
